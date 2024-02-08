@@ -1,1 +1,673 @@
-../../../.git/annex/objects/2f/fq/MD5E-s32555--be3c86dad493800bdc7f5a20c1161340.tsv/MD5E-s32555--be3c86dad493800bdc7f5a20c1161340.tsv
+frame	onset	duration	trial_type	event_type	response_type	response_time	stim_file	accuracy
+0	71.217		loss-reward	ImageDisplay1		0.0		
+0	73.441	0.75	loss-reward	StartDisplay				
+0	74.193		loss-reward	ImageDisplay2		0.0		
+0	77.202	1.6	loss-reward	ChoiceDisplay	1	0.734	1	1
+0	77.954	0.866	loss-reward	ChosenDisplay		0.0		
+0	78.807	0.25	loss-reward	TurnDisplay				
+0	79.057	0.75	loss-reward	OutcomeDisplay				
+1	79.81		win-noreward	ImageDisplay1		0.0		
+1	81.799	0.75	win-noreward	StartDisplay				
+1	82.551		win-noreward	ImageDisplay2		0.0		
+1	85.811	1.6	win-noreward	ChoiceDisplay	1	0.493	1	1
+1	86.329	1.107	win-noreward	ChosenDisplay		0.0		
+1	87.416	0.25	win-noreward	TurnDisplay				
+1	87.666	0.75	win-noreward	OutcomeDisplay				
+2	88.419		win-reward	ImageDisplay1		0.0		
+2	90.408	0.75	win-reward	StartDisplay				
+2	91.16		win-reward	ImageDisplay2		0.0		
+2	94.42	1.6	win-reward	ChoiceDisplay	1	0.792	1	1
+2	95.239	0.808	win-reward	ChosenDisplay		0.0		
+2	96.025	0.25	win-reward	TurnDisplay				
+2	96.275	0.75	win-reward	OutcomeDisplay				
+3	97.028		win-reward	ImageDisplay1		0.0		
+3	99.268	0.75	win-reward	StartDisplay				
+3	100.02		win-reward	ImageDisplay2		0.0		
+3	103.029	1.6	win-reward	ChoiceDisplay	1	0.697	1	1
+3	103.748	0.903	win-reward	ChosenDisplay		0.0		
+3	104.634	0.25	win-reward	TurnDisplay				
+3	104.884	0.75	win-reward	OutcomeDisplay				
+4	105.637		loss-reward	ImageDisplay1		0.0		
+4	107.626	0.75	loss-reward	StartDisplay				
+4	108.378		loss-reward	ImageDisplay2		0.0		
+4	111.638	1.6	loss-reward	ChoiceDisplay	1	0.588	1	1
+4	112.24	1.012	loss-reward	ChosenDisplay		0.0		
+4	113.243	0.25	loss-reward	TurnDisplay				
+4	113.493	0.75	loss-reward	OutcomeDisplay				
+5	114.246		control-noreward	ImageDisplay1		0.0		
+5	116.486	0.75	control-noreward	StartDisplay				
+5	117.238		control-noreward	ImageDisplay2		0.0		
+5	120.247	1.6	control-noreward	ChoiceDisplay	1	0.571	1	1
+5	120.849	1.029	control-noreward	ChosenDisplay		0.0		
+5	121.852	0.25	control-noreward	TurnDisplay				
+5	122.102	0.75	control-noreward	OutcomeDisplay				
+6	122.855		loss-noreward	ImageDisplay1		0.0		
+6	124.844	0.75	loss-noreward	StartDisplay				
+6	125.596		loss-noreward	ImageDisplay2		0.0		
+6	128.856	1.6	loss-noreward	ChoiceDisplay	1	0.599	1	1
+6	129.474	1.001	loss-noreward	ChosenDisplay		0.0		
+6	130.461	0.25	loss-noreward	TurnDisplay				
+6	130.711	0.75	loss-noreward	OutcomeDisplay				
+7	131.464		loss-reward	ImageDisplay1		0.0		
+7	133.47	0.75	loss-reward	StartDisplay				
+7	134.205		loss-reward	ImageDisplay2		0.0		
+7	137.465	1.6	loss-reward	ChoiceDisplay	1	1.119	1	1
+7	138.602	0.481	loss-reward	ChosenDisplay		0.0		
+7	139.07	0.25	loss-reward	TurnDisplay				
+7	139.32	0.75	loss-reward	OutcomeDisplay				
+8	140.073		control-noreward	ImageDisplay1		0.0		
+8	142.062	0.75	control-noreward	StartDisplay				
+8	142.814		control-noreward	ImageDisplay2		0.0		
+8	146.074	1.6	control-noreward	ChoiceDisplay	1	0.744	1	1
+8	146.843	0.856	control-noreward	ChosenDisplay		0.0		
+8	147.679	0.25	control-noreward	TurnDisplay				
+8	147.929	0.75	control-noreward	OutcomeDisplay				
+9	148.682		control-noreward	ImageDisplay1		0.0		
+9	150.922	0.75	control-noreward	StartDisplay				
+9	151.674		control-noreward	ImageDisplay2		0.0		
+9	154.683	1.6	control-noreward	ChoiceDisplay	1	0.49	1	1
+9	155.184	1.11	control-noreward	ChosenDisplay		0.0		
+9	156.288	0.25	control-noreward	TurnDisplay				
+9	156.538	0.75	control-noreward	OutcomeDisplay				
+10	157.291		control-reward	ImageDisplay1		0.0		
+10	159.531	0.75	control-reward	StartDisplay				
+10	160.283		control-reward	ImageDisplay2		0.0		
+10	163.292	1.6	control-reward	ChoiceDisplay	1	0.571	1	1
+10	163.877	1.029	control-reward	ChosenDisplay		0.0		
+10	164.897	0.25	control-reward	TurnDisplay				
+10	165.147	0.75	control-reward	OutcomeDisplay				
+11	165.9		loss-noreward	ImageDisplay1		0.0		
+11	167.889	0.75	loss-noreward	StartDisplay				
+11	168.641		loss-noreward	ImageDisplay2		0.0		
+11	171.901	1.6	loss-noreward	ChoiceDisplay	1	0.741	1	1
+11	172.67	0.859	loss-noreward	ChosenDisplay		0.0		
+11	173.506	0.25	loss-noreward	TurnDisplay				
+11	173.756	0.75	loss-noreward	OutcomeDisplay				
+12	174.509		win-reward	ImageDisplay1		0.0		
+12	176.749	0.75	win-reward	StartDisplay				
+12	177.501		win-reward	ImageDisplay2		0.0		
+12	180.51	1.6	win-reward	ChoiceDisplay	1	0.878	1	1
+12	181.413	0.722	win-reward	ChosenDisplay		0.0		
+12	182.115	0.25	win-reward	TurnDisplay				
+12	182.365	0.75	win-reward	OutcomeDisplay				
+13	183.118		loss-noreward	ImageDisplay1		0.0		
+13	185.358	0.75	loss-noreward	StartDisplay				
+13	186.11		loss-noreward	ImageDisplay2		0.0		
+13	189.119	1.6	loss-noreward	ChoiceDisplay	1	0.699	1	1
+13	189.838	0.901	loss-noreward	ChosenDisplay		0.0		
+13	190.724	0.25	loss-noreward	TurnDisplay				
+13	190.974	0.75	loss-noreward	OutcomeDisplay				
+14	191.727		control-noreward	ImageDisplay1		0.0		
+14	193.716	0.75	control-noreward	StartDisplay				
+14	194.468		control-noreward	ImageDisplay2		0.0		
+14	197.728	1.6	control-noreward	ChoiceDisplay	1	0.833	1	1
+14	198.58	0.767	control-noreward	ChosenDisplay		0.0		
+14	199.333	0.25	control-noreward	TurnDisplay				
+14	199.583	0.75	control-noreward	OutcomeDisplay				
+15	200.336		win-reward	ImageDisplay1		0.0		
+15	202.576	0.75	win-reward	StartDisplay				
+15	203.328		win-reward	ImageDisplay2		0.0		
+15	206.337	1.6	win-reward	ChoiceDisplay	1	0.717	1	1
+15	207.072	0.883	win-reward	ChosenDisplay		0.0		
+15	207.942	0.25	win-reward	TurnDisplay				
+15	208.192	0.75	win-reward	OutcomeDisplay				
+16	208.945		loss-reward	ImageDisplay1		0.0		
+16	211.185	0.75	loss-reward	StartDisplay				
+16	211.937		loss-reward	ImageDisplay2		0.0		
+16	214.946	1.6	loss-reward	ChoiceDisplay	1	0.659	1	1
+16	215.634	0.941	loss-reward	ChosenDisplay		0.0		
+16	216.551	0.25	loss-reward	TurnDisplay				
+16	216.801	0.75	loss-reward	OutcomeDisplay				
+17	217.554		loss-noreward	ImageDisplay1		0.0		
+17	219.794	0.75	loss-noreward	StartDisplay				
+17	220.563		loss-noreward	ImageDisplay2		0.0		
+17	223.555	1.6	loss-noreward	ChoiceDisplay	1	0.557	1	1
+17	224.14	1.043	loss-noreward	ChosenDisplay		0.0		
+17	225.16	0.25	loss-noreward	TurnDisplay				
+17	225.41	0.75	loss-noreward	OutcomeDisplay				
+18	226.163		loss-reward	ImageDisplay1		0.0		
+18	228.152	0.75	loss-reward	StartDisplay				
+18	228.904		loss-reward	ImageDisplay2		0.0		
+18	232.164	1.6	loss-reward	ChoiceDisplay	1	0.761	1	1
+18	232.949	0.839	loss-reward	ChosenDisplay		0.0		
+18	233.769	0.25	loss-reward	TurnDisplay				
+18	234.019	0.75	loss-reward	OutcomeDisplay				
+19	234.772		win-reward	ImageDisplay1		0.0		
+19	236.761	0.75	win-reward	StartDisplay				
+19	237.513		win-reward	ImageDisplay2		0.0		
+19	240.773	1.6	win-reward	ChoiceDisplay	1	0.791	1	1
+19	241.592	0.809	win-reward	ChosenDisplay		0.0		
+19	242.378	0.25	win-reward	TurnDisplay				
+19	242.628	0.75	win-reward	OutcomeDisplay				
+20	243.381		loss-reward	ImageDisplay1		0.0		
+20	245.37	0.75	loss-reward	StartDisplay				
+20	246.122		loss-reward	ImageDisplay2		0.0		
+20	249.382	1.6	loss-reward	ChoiceDisplay	1	0.658	1	1
+20	250.067	0.942	loss-reward	ChosenDisplay		0.0		
+20	250.987	0.25	loss-reward	TurnDisplay				
+20	251.237	0.75	loss-reward	OutcomeDisplay				
+21	251.99		loss-noreward	ImageDisplay1		0.0		
+21	254.23	0.75	loss-noreward	StartDisplay				
+21	254.982		loss-noreward	ImageDisplay2		0.0		
+21	257.991	1.6	loss-noreward	ChoiceDisplay	1	0.804	1	1
+21	258.81	0.796	loss-noreward	ChosenDisplay		0.0		
+21	259.596	0.25	loss-noreward	TurnDisplay				
+21	259.846	0.75	loss-noreward	OutcomeDisplay				
+22	260.599		loss-noreward	ImageDisplay1		0.0		
+22	262.839	0.75	loss-noreward	StartDisplay				
+22	263.591		loss-noreward	ImageDisplay2		0.0		
+22	266.6	1.6	loss-noreward	ChoiceDisplay	1	0.606	1	1
+22	267.218	0.994	loss-noreward	ChosenDisplay		0.0		
+22	268.205	0.25	loss-noreward	TurnDisplay				
+22	268.455	0.75	loss-noreward	OutcomeDisplay				
+23	269.208		win-reward	ImageDisplay1		0.0		
+23	271.448	0.75	win-reward	StartDisplay				
+23	272.2		win-reward	ImageDisplay2		0.0		
+23	275.209	1.6	win-reward	ChoiceDisplay	1	0.408	1	1
+23	275.643	1.192	win-reward	ChosenDisplay		0.0		
+23	276.814	0.25	win-reward	TurnDisplay				
+23	277.064	0.75	win-reward	OutcomeDisplay				
+24	277.817		control-reward	ImageDisplay1		0.0		
+24	279.806	0.75	control-reward	StartDisplay				
+24	280.558		control-reward	ImageDisplay2		0.0		
+24	283.818	1.6	control-reward	ChoiceDisplay	1	0.74	1	1
+24	284.587	0.86	control-reward	ChosenDisplay		0.0		
+24	285.423	0.25	control-reward	TurnDisplay				
+24	285.673	0.75	control-reward	OutcomeDisplay				
+25	286.426		control-noreward	ImageDisplay1		0.0		
+25	288.666	0.75	control-noreward	StartDisplay				
+25	289.418		control-noreward	ImageDisplay2		0.0		
+25	292.427	1.6	control-noreward	ChoiceDisplay	1	0.606	1	1
+25	293.062	0.994	control-noreward	ChosenDisplay		0.0		
+25	294.032	0.25	control-noreward	TurnDisplay				
+25	294.282	0.75	control-noreward	OutcomeDisplay				
+26	295.035		loss-noreward	ImageDisplay1		0.0		
+26	297.024	0.75	loss-noreward	StartDisplay				
+26	297.776		loss-noreward	ImageDisplay2		0.0		
+26	301.036	1.6	loss-noreward	ChoiceDisplay	1	0.621	1	1
+26	301.688	0.979	loss-noreward	ChosenDisplay		0.0		
+26	302.641	0.25	loss-noreward	TurnDisplay				
+26	302.891	0.75	loss-noreward	OutcomeDisplay				
+27	303.644		loss-reward	ImageDisplay1		0.0		
+27	305.9	0.75	loss-reward	StartDisplay				
+27	306.636		loss-reward	ImageDisplay2		0.0		
+27	309.645	1.6	loss-reward	ChoiceDisplay	1	0.636	1	1
+27	310.297	0.964	loss-reward	ChosenDisplay		0.0		
+27	311.25	0.25	loss-reward	TurnDisplay				
+27	311.5	0.75	loss-reward	OutcomeDisplay				
+28	312.253		loss-reward	ImageDisplay1		0.0		
+28	314.493	0.75	loss-reward	StartDisplay				
+28	315.245		loss-reward	ImageDisplay2		0.0		
+28	318.254	1.6	loss-reward	ChoiceDisplay	1	0.57	1	1
+28	318.839	1.03	loss-reward	ChosenDisplay		0.0		
+28	319.859	0.25	loss-reward	TurnDisplay				
+28	320.109	0.75	loss-reward	OutcomeDisplay				
+29	320.862		win-noreward	ImageDisplay1		0.0		
+29	323.102	0.75	win-noreward	StartDisplay				
+29	323.854		win-noreward	ImageDisplay2		0.0		
+29	326.863	1.6	win-noreward	ChoiceDisplay	1	0.548	1	1
+29	327.431	1.052	win-noreward	ChosenDisplay		0.0		
+29	328.468	0.25	win-noreward	TurnDisplay				
+29	328.718	0.75	win-noreward	OutcomeDisplay				
+30	329.471		control-noreward	ImageDisplay1		0.0		
+30	331.711	0.75	control-noreward	StartDisplay				
+30	332.463		control-noreward	ImageDisplay2		0.0		
+30	335.472	1.6	control-noreward	ChoiceDisplay	1	0.777	1	1
+30	336.274	0.823	control-noreward	ChosenDisplay		0.0		
+30	337.077	0.25	control-noreward	TurnDisplay				
+30	337.327	0.75	control-noreward	OutcomeDisplay				
+31	338.08		win-reward	ImageDisplay1		0.0		
+31	340.069	0.75	win-reward	StartDisplay				
+31	340.821		win-reward	ImageDisplay2		0.0		
+31	344.081	1.6	win-reward	ChoiceDisplay	1	0.628	1	1
+31	344.733	0.972	win-reward	ChosenDisplay		0.0		
+31	345.686	0.25	win-reward	TurnDisplay				
+31	345.936	0.75	win-reward	OutcomeDisplay				
+32	346.689		control-noreward	ImageDisplay1		0.0		
+32	348.929	0.75	control-noreward	StartDisplay				
+32	349.681		control-noreward	ImageDisplay2		0.0		
+32	352.69	1.6	control-noreward	ChoiceDisplay	1	0.421	1	1
+32	353.124	1.179	control-noreward	ChosenDisplay		0.0		
+32	354.295	0.25	control-noreward	TurnDisplay				
+32	354.545	0.75	control-noreward	OutcomeDisplay				
+33	355.298		win-noreward	ImageDisplay1		0.0		
+33	357.287	0.75	win-noreward	StartDisplay				
+33	358.039		win-noreward	ImageDisplay2		0.0		
+33	361.299	1.6	win-noreward	ChoiceDisplay	1	0.798	1	1
+33	362.118	0.802	win-noreward	ChosenDisplay		0.0		
+33	362.904	0.25	win-noreward	TurnDisplay				
+33	363.154	0.75	win-noreward	OutcomeDisplay				
+34	363.907		win-reward	ImageDisplay1		0.0		
+34	366.147	0.75	win-reward	StartDisplay				
+34	366.899		win-reward	ImageDisplay2		0.0		
+34	369.908	1.6	win-reward	ChoiceDisplay	1	0.689	1	1
+34	370.61	0.911	win-reward	ChosenDisplay		0.0		
+34	371.513	0.25	win-reward	TurnDisplay				
+34	371.763	0.75	win-reward	OutcomeDisplay				
+35	372.516		win-reward	ImageDisplay1		0.0		
+35	374.756	0.75	win-reward	StartDisplay				
+35	375.508		win-reward	ImageDisplay2		0.0		
+35	378.517	1.6	win-reward	ChoiceDisplay	1	0.665	1	1
+35	379.202	0.935	win-reward	ChosenDisplay		0.0		
+35	380.122	0.25	win-reward	TurnDisplay				
+35	380.372	0.75	win-reward	OutcomeDisplay				
+36	381.125		loss-reward	ImageDisplay1		0.0		
+36	383.114	0.75	loss-reward	StartDisplay				
+36	383.866		loss-reward	ImageDisplay2		0.0		
+36	387.126	1.6	loss-reward	ChoiceDisplay	1	0.448	1	1
+36	387.594	1.152	loss-reward	ChosenDisplay		0.0		
+36	388.731	0.25	loss-reward	TurnDisplay				
+36	388.981	0.75	loss-reward	OutcomeDisplay				
+37	389.734		control-reward	ImageDisplay1		0.0		
+37	391.723	0.75	control-reward	StartDisplay				
+37	392.475		control-reward	ImageDisplay2		0.0		
+37	395.735	1.6	control-reward	ChoiceDisplay	1	0.805	1	1
+37	396.554	0.795	control-reward	ChosenDisplay		0.0		
+37	397.34	0.25	control-reward	TurnDisplay				
+37	397.59	0.75	control-reward	OutcomeDisplay				
+38	398.343		win-reward	ImageDisplay1		0.0		
+38	400.332	0.75	win-reward	StartDisplay				
+38	401.084		win-reward	ImageDisplay2		0.0		
+38	404.344	1.6	win-reward	ChoiceDisplay	1	0.628	1	1
+38	404.996	0.972	win-reward	ChosenDisplay		0.0		
+38	405.949	0.25	win-reward	TurnDisplay				
+38	406.199	0.75	win-reward	OutcomeDisplay				
+39	406.952		control-reward	ImageDisplay1		0.0		
+39	408.941	0.75	control-reward	StartDisplay				
+39	409.693		control-reward	ImageDisplay2		0.0		
+39	412.953	1.6	control-reward	ChoiceDisplay	1	0.791	1	1
+39	413.772	0.809	control-reward	ChosenDisplay		0.0		
+39	414.558	0.25	control-reward	TurnDisplay				
+39	414.808	0.75	control-reward	OutcomeDisplay				
+40	415.561		win-noreward	ImageDisplay1		0.0		
+40	417.801	0.75	win-noreward	StartDisplay				
+40	418.553		win-noreward	ImageDisplay2		0.0		
+40	421.565	1.6	win-noreward	ChoiceDisplay	1	0.631	1	1
+40	422.214	0.969	win-noreward	ChosenDisplay		0.0		
+40	423.167	0.25	win-noreward	TurnDisplay				
+40	423.417	0.75	win-noreward	OutcomeDisplay				
+41	424.17		control-noreward	ImageDisplay1		0.0		
+41	426.176	0.75	control-noreward	StartDisplay				
+41	426.928		control-noreward	ImageDisplay2		0.0		
+41	430.171	1.6	control-noreward	ChoiceDisplay	1	0.679	1	1
+41	430.873	0.921	control-noreward	ChosenDisplay		0.0		
+41	431.776	0.25	control-noreward	TurnDisplay				
+41	432.026	0.75	control-noreward	OutcomeDisplay				
+42	432.779		control-reward	ImageDisplay1		0.0		
+42	435.019	0.75	control-reward	StartDisplay				
+42	435.771		control-reward	ImageDisplay2		0.0		
+42	438.78	1.6	control-reward	ChoiceDisplay	1	0.653	1	1
+42	439.448	0.947	control-reward	ChosenDisplay		0.0		
+42	440.385	0.25	control-reward	TurnDisplay				
+42	440.635	0.75	control-reward	OutcomeDisplay				
+43	441.388		win-reward	ImageDisplay1		0.0		
+43	443.377	0.75	win-reward	StartDisplay				
+43	444.129		win-reward	ImageDisplay2		0.0		
+43	447.389	1.6	win-reward	ChoiceDisplay	1	0.583	1	1
+43	447.991	1.017	win-reward	ChosenDisplay		0.0		
+43	448.994	0.25	win-reward	TurnDisplay				
+43	449.244	0.75	win-reward	OutcomeDisplay				
+44	449.997		win-noreward	ImageDisplay1		0.0		
+44	451.986	0.75	win-noreward	StartDisplay				
+44	452.738		win-noreward	ImageDisplay2		0.0		
+44	455.998	1.6	win-noreward	ChoiceDisplay	1	0.654	1	1
+44	456.666	0.946	win-noreward	ChosenDisplay		0.0		
+44	457.603	0.25	win-noreward	TurnDisplay				
+44	457.853	0.75	win-noreward	OutcomeDisplay				
+45	458.606		loss-noreward	ImageDisplay1		0.0		
+45	460.595	0.75	loss-noreward	StartDisplay				
+45	461.347		loss-noreward	ImageDisplay2		0.0		
+45	464.607	1.6	loss-noreward	ChoiceDisplay	1	0.504	1	1
+45	465.125	1.096	loss-noreward	ChosenDisplay		0.0		
+45	466.212	0.25	loss-noreward	TurnDisplay				
+45	466.462	0.75	loss-noreward	OutcomeDisplay				
+46	467.215		control-reward	ImageDisplay1		0.0		
+46	469.204	0.75	control-reward	StartDisplay				
+46	469.956		control-reward	ImageDisplay2		0.0		
+46	473.216	1.6	control-reward	ChoiceDisplay	1	0.913	1	1
+46	474.152	0.687	control-reward	ChosenDisplay		0.0		
+46	474.821	0.25	control-reward	TurnDisplay				
+46	475.071	0.75	control-reward	OutcomeDisplay				
+47	475.824		win-reward	ImageDisplay1		0.0		
+47	477.813	0.75	win-reward	StartDisplay				
+47	478.565		win-reward	ImageDisplay2		0.0		
+47	481.825	1.6	win-reward	ChoiceDisplay	1	0.65	1	1
+47	482.493	0.95	win-reward	ChosenDisplay		0.0		
+47	483.43	0.25	win-reward	TurnDisplay				
+47	483.68	0.75	win-reward	OutcomeDisplay				
+48	484.433		loss-reward	ImageDisplay1		0.0		
+48	486.673	0.75	loss-reward	StartDisplay				
+48	487.425		loss-reward	ImageDisplay2		0.0		
+48	490.434	1.6	loss-reward	ChoiceDisplay	1	0.809	1	1
+48	491.27	0.791	loss-reward	ChosenDisplay		0.0		
+48	492.039	0.25	loss-reward	TurnDisplay				
+48	492.289	0.75	loss-reward	OutcomeDisplay				
+49	493.042		control-reward	ImageDisplay1		0.0		
+49	495.282	0.75	control-reward	StartDisplay				
+49	496.034		control-reward	ImageDisplay2		0.0		
+49	499.043	1.6	control-reward	ChoiceDisplay	1	0.661	1	1
+49	499.728	0.939	control-reward	ChosenDisplay		0.0		
+49	500.648	0.25	control-reward	TurnDisplay				
+49	500.898	0.75	control-reward	OutcomeDisplay				
+50	501.651		control-reward	ImageDisplay1		0.0		
+50	503.891	0.75	control-reward	StartDisplay				
+50	504.643		control-reward	ImageDisplay2		0.0		
+50	507.652	1.6	control-reward	ChoiceDisplay	1	0.777	1	1
+50	508.454	0.823	control-reward	ChosenDisplay		0.0		
+50	509.257	0.25	control-reward	TurnDisplay				
+50	509.507	0.75	control-reward	OutcomeDisplay				
+51	510.26		control-noreward	ImageDisplay1		0.0		
+51	512.249	0.75	control-noreward	StartDisplay				
+51	513.001		control-noreward	ImageDisplay2		0.0		
+51	516.261	1.6	control-noreward	ChoiceDisplay	1	0.631	1	1
+51	516.913	0.969	control-noreward	ChosenDisplay		0.0		
+51	517.866	0.25	control-noreward	TurnDisplay				
+51	518.116	0.75	control-noreward	OutcomeDisplay				
+52	518.869		loss-noreward	ImageDisplay1		0.0		
+52	521.109	0.75	loss-noreward	StartDisplay				
+52	521.861		loss-noreward	ImageDisplay2		0.0		
+52	524.87	1.6	loss-noreward	ChoiceDisplay	1	0.649	1	1
+52	525.539	0.951	loss-noreward	ChosenDisplay		0.0		
+52	526.475	0.25	loss-noreward	TurnDisplay				
+52	526.725	0.75	loss-noreward	OutcomeDisplay				
+53	527.478		control-reward	ImageDisplay1		0.0		
+53	529.467	0.75	control-reward	StartDisplay				
+53	530.219		control-reward	ImageDisplay2		0.0		
+53	533.479	1.6	control-reward	ChoiceDisplay	1	0.672	1	1
+53	534.164	0.928	control-reward	ChosenDisplay		0.0		
+53	535.084	0.25	control-reward	TurnDisplay				
+53	535.334	0.75	control-reward	OutcomeDisplay				
+54	536.087		loss-noreward	ImageDisplay1		0.0		
+54	538.327	0.75	loss-noreward	StartDisplay				
+54	539.079		loss-noreward	ImageDisplay2		0.0		
+54	542.088	1.6	loss-noreward	ChoiceDisplay	1	0.688	1	1
+54	542.79	0.912	loss-noreward	ChosenDisplay		0.0		
+54	543.693	0.25	loss-noreward	TurnDisplay				
+54	543.943	0.75	loss-noreward	OutcomeDisplay				
+55	544.696		win-reward	ImageDisplay1		0.0		
+55	546.685	0.75	win-reward	StartDisplay				
+55	547.437		win-reward	ImageDisplay2		0.0		
+55	550.697	1.6	win-reward	ChoiceDisplay	1	0.899	1	1
+55	551.616	0.701	win-reward	ChosenDisplay		0.0		
+55	552.302	0.25	win-reward	TurnDisplay				
+55	552.552	0.75	win-reward	OutcomeDisplay				
+56	553.305		loss-reward	ImageDisplay1		0.0		
+56	555.294	0.75	loss-reward	StartDisplay				
+56	556.046		loss-reward	ImageDisplay2		0.0		
+56	559.306	1.6	loss-reward	ChoiceDisplay	1	1.019	1	1
+56	560.342	0.581	loss-reward	ChosenDisplay		0.0		
+56	560.911	0.25	loss-reward	TurnDisplay				
+56	561.161	0.75	loss-reward	OutcomeDisplay				
+57	561.914		loss-reward	ImageDisplay1		0.0		
+57	563.903	0.75	loss-reward	StartDisplay				
+57	564.655		loss-reward	ImageDisplay2		0.0		
+57	567.915	1.6	loss-reward	ChoiceDisplay	1	0.762	1	1
+57	568.701	0.838	loss-reward	ChosenDisplay		0.0		
+57	569.52	0.25	loss-reward	TurnDisplay				
+57	569.77	0.75	loss-reward	OutcomeDisplay				
+58	570.523		control-noreward	ImageDisplay1		0.0		
+58	572.512	0.75	control-noreward	StartDisplay				
+58	573.264		control-noreward	ImageDisplay2		0.0		
+58	576.524	1.6	control-noreward	ChoiceDisplay	1	0.875	1	1
+58	577.427	0.725	control-noreward	ChosenDisplay		0.0		
+58	578.129	0.25	control-noreward	TurnDisplay				
+58	578.379	0.75	control-noreward	OutcomeDisplay				
+59	579.132		win-reward	ImageDisplay1		0.0		
+59	581.372	0.75	win-reward	StartDisplay				
+59	582.124		win-reward	ImageDisplay2		0.0		
+59	585.133	1.6	win-reward	ChoiceDisplay	1	0.659	1	1
+59	585.818	0.941	win-reward	ChosenDisplay		0.0		
+59	586.738	0.25	win-reward	TurnDisplay				
+59	586.988	0.75	win-reward	OutcomeDisplay				
+60	587.741		win-noreward	ImageDisplay1		0.0		
+60	589.981	0.75	win-noreward	StartDisplay				
+60	590.733		win-noreward	ImageDisplay2		0.0		
+60	593.742	1.6	win-noreward	ChoiceDisplay	1	0.772	1	1
+60	594.527	0.828	win-noreward	ChosenDisplay		0.0		
+60	595.347	0.25	win-noreward	TurnDisplay				
+60	595.597	0.75	win-noreward	OutcomeDisplay				
+61	596.35		win-noreward	ImageDisplay1		0.0		
+61	598.339	0.75	win-noreward	StartDisplay				
+61	599.091		win-noreward	ImageDisplay2		0.0		
+61	602.351	1.6	win-noreward	ChoiceDisplay	1	0.818	1	1
+61	603.187	0.782	win-noreward	ChosenDisplay		0.0		
+61	603.956	0.25	win-noreward	TurnDisplay				
+61	604.206	0.75	win-noreward	OutcomeDisplay				
+62	604.959		win-noreward	ImageDisplay1		0.0		
+62	607.199	0.75	win-noreward	StartDisplay				
+62	607.951		win-noreward	ImageDisplay2		0.0		
+62	610.96	1.6	win-noreward	ChoiceDisplay	1	0.779	1	1
+62	611.762	0.821	win-noreward	ChosenDisplay		0.0		
+62	612.565	0.25	win-noreward	TurnDisplay				
+62	612.815	0.75	win-noreward	OutcomeDisplay				
+63	613.568		loss-reward	ImageDisplay1		0.0		
+63	615.808	0.75	loss-reward	StartDisplay				
+63	616.56		loss-reward	ImageDisplay2		0.0		
+63	619.569	1.6	loss-reward	ChoiceDisplay	1	1.015	1	1
+63	620.605	0.585	loss-reward	ChosenDisplay		0.0		
+63	621.174	0.25	loss-reward	TurnDisplay				
+63	621.424	0.75	loss-reward	OutcomeDisplay				
+64	622.177		control-noreward	ImageDisplay1		0.0		
+64	624.166	0.75	control-noreward	StartDisplay				
+64	624.918		control-noreward	ImageDisplay2		0.0		
+64	628.178	1.6	control-noreward	ChoiceDisplay	1	0.783	1	1
+64	628.98	0.817	control-noreward	ChosenDisplay		0.0		
+64	629.783	0.25	control-noreward	TurnDisplay				
+64	630.033	0.75	control-noreward	OutcomeDisplay				
+65	630.786		win-noreward	ImageDisplay1		0.0		
+65	633.026	0.75	win-noreward	StartDisplay				
+65	633.778		win-noreward	ImageDisplay2		0.0		
+65	636.787	1.6	win-noreward	ChoiceDisplay	1	0.879	1	1
+65	637.69	0.721	win-noreward	ChosenDisplay		0.0		
+65	638.392	0.25	win-noreward	TurnDisplay				
+65	638.642	0.75	win-noreward	OutcomeDisplay				
+66	639.395		control-noreward	ImageDisplay1		0.0		
+66	641.384	0.75	control-noreward	StartDisplay				
+66	642.136		control-noreward	ImageDisplay2		0.0		
+66	645.396	1.6	control-noreward	ChoiceDisplay	1	0.644	1	1
+66	646.065	0.956	control-noreward	ChosenDisplay		0.0		
+66	647.001	0.25	control-noreward	TurnDisplay				
+66	647.251	0.75	control-noreward	OutcomeDisplay				
+67	648.004		win-reward	ImageDisplay1		0.0		
+67	650.244	0.75	win-reward	StartDisplay				
+67	650.996		win-reward	ImageDisplay2		0.0		
+67	654.005	1.6	win-reward	ChoiceDisplay	1	0.861	1	1
+67	654.891	0.739	win-reward	ChosenDisplay		0.0		
+67	655.61	0.25	win-reward	TurnDisplay				
+67	655.86	0.75	win-reward	OutcomeDisplay				
+68	656.613		win-reward	ImageDisplay1		0.0		
+68	658.602	0.75	win-reward	StartDisplay				
+68	659.354		win-reward	ImageDisplay2		0.0		
+68	662.614	1.6	win-reward	ChoiceDisplay	1	0.698	1	1
+68	663.333	0.902	win-reward	ChosenDisplay		0.0		
+68	664.219	0.25	win-reward	TurnDisplay				
+68	664.469	0.75	win-reward	OutcomeDisplay				
+69	665.222		loss-reward	ImageDisplay1		0.0		
+69	667.211	0.75	loss-reward	StartDisplay				
+69	667.963		loss-reward	ImageDisplay2		0.0		
+69	671.223	1.6	loss-reward	ChoiceDisplay	1	0.757	1	1
+69	672.009	0.843	loss-reward	ChosenDisplay		0.0		
+69	672.828	0.25	loss-reward	TurnDisplay				
+69	673.078	0.75	loss-reward	OutcomeDisplay				
+70	673.831		control-reward	ImageDisplay1		0.0		
+70	676.071	0.75	control-reward	StartDisplay				
+70	676.823		control-reward	ImageDisplay2		0.0		
+70	679.832	1.6	control-reward	ChoiceDisplay	1	0.927	1	1
+70	680.785	0.673	control-reward	ChosenDisplay		0.0		
+70	681.437	0.25	control-reward	TurnDisplay				
+70	681.687	0.75	control-reward	OutcomeDisplay				
+71	682.44		control-reward	ImageDisplay1		0.0		
+71	684.429	0.75	control-reward	StartDisplay				
+71	685.181		control-reward	ImageDisplay2		0.0		
+71	688.441	1.6	control-reward	ChoiceDisplay	1	0.651	1	1
+71	689.109	0.949	control-reward	ChosenDisplay		0.0		
+71	690.046	0.25	control-reward	TurnDisplay				
+71	690.296	0.75	control-reward	OutcomeDisplay				
+72	691.049		control-noreward	ImageDisplay1		0.0		
+72	693.038	0.75	control-noreward	StartDisplay				
+72	693.79		control-noreward	ImageDisplay2		0.0		
+72	697.05	1.6	control-noreward	ChoiceDisplay	1	0.898	1	1
+72	697.969	0.702	control-noreward	ChosenDisplay		0.0		
+72	698.655	0.25	control-noreward	TurnDisplay				
+72	698.905	0.75	control-noreward	OutcomeDisplay				
+73	699.658		win-noreward	ImageDisplay1		0.0		
+73	701.898	0.75	win-noreward	StartDisplay				
+73	702.65		win-noreward	ImageDisplay2		0.0		
+73	705.659	1.6	win-noreward	ChoiceDisplay	1	0.688	1	1
+73	706.361	0.912	win-noreward	ChosenDisplay		0.0		
+73	707.264	0.25	win-noreward	TurnDisplay				
+73	707.514	0.75	win-noreward	OutcomeDisplay				
+74	708.267		control-noreward	ImageDisplay1		0.0		
+74	710.507	0.75	control-noreward	StartDisplay				
+74	711.259		control-noreward	ImageDisplay2		0.0		
+74	714.268	1.6	control-noreward	ChoiceDisplay	1	0.713	1	1
+74	715.003	0.887	control-noreward	ChosenDisplay		0.0		
+74	715.873	0.25	control-noreward	TurnDisplay				
+74	716.123	0.75	control-noreward	OutcomeDisplay				
+75	716.876		loss-reward	ImageDisplay1		0.0		
+75	719.116	0.75	loss-reward	StartDisplay				
+75	719.868		loss-reward	ImageDisplay2		0.0		
+75	722.877	1.6	loss-reward	ChoiceDisplay	1	0.711	1	1
+75	723.612	0.889	loss-reward	ChosenDisplay		0.0		
+75	724.482	0.25	loss-reward	TurnDisplay				
+75	724.732	0.75	loss-reward	OutcomeDisplay				
+76	725.485		win-reward	ImageDisplay1		0.0		
+76	727.725	0.75	win-reward	StartDisplay				
+76	728.477		win-reward	ImageDisplay2		0.0		
+76	731.486	1.6	win-reward	ChoiceDisplay	1	0.722	1	1
+76	732.221	0.878	win-reward	ChosenDisplay		0.0		
+76	733.091	0.25	win-reward	TurnDisplay				
+76	733.341	0.75	win-reward	OutcomeDisplay				
+77	734.094		win-noreward	ImageDisplay1		0.0		
+77	736.083	0.75	win-noreward	StartDisplay				
+77	736.835		win-noreward	ImageDisplay2		0.0		
+77	740.095	1.6	win-noreward	ChoiceDisplay	1	0.843	1	1
+77	740.964	0.757	win-noreward	ChosenDisplay		0.0		
+77	741.7	0.25	win-noreward	TurnDisplay				
+77	741.95	0.75	win-noreward	OutcomeDisplay				
+78	742.703		control-noreward	ImageDisplay1		0.0		
+78	744.943	0.75	control-noreward	StartDisplay				
+78	745.695		control-noreward	ImageDisplay2		0.0		
+78	748.704	1.6	control-noreward	ChoiceDisplay	1	0.645	1	1
+78	749.372	0.955	control-noreward	ChosenDisplay		0.0		
+78	750.309	0.25	control-noreward	TurnDisplay				
+78	750.56	0.75	control-noreward	OutcomeDisplay				
+79	751.312		control-reward	ImageDisplay1		0.0		
+79	753.301	0.75	control-reward	StartDisplay				
+79	754.053		control-reward	ImageDisplay2		0.0		
+79	757.313	1.6	control-reward	ChoiceDisplay	1	0.721	1	1
+79	758.048	0.879	control-reward	ChosenDisplay		0.0		
+79	758.918	0.25	control-reward	TurnDisplay				
+79	759.168	0.75	control-reward	OutcomeDisplay				
+80	759.921		loss-reward	ImageDisplay1		0.0		
+80	762.161	0.75	loss-reward	StartDisplay				
+80	762.913		loss-reward	ImageDisplay2		0.0		
+80	765.922	1.6	loss-reward	ChoiceDisplay	1	1.356	1	1
+80	767.293	0.244	loss-reward	ChosenDisplay		0.0		
+80	767.527	0.25	loss-reward	TurnDisplay				
+80	767.777	0.75	loss-reward	OutcomeDisplay				
+81	768.53		loss-noreward	ImageDisplay1		0.0		
+81	770.519	0.75	loss-noreward	StartDisplay				
+81	771.271		loss-noreward	ImageDisplay2		0.0		
+81	774.531	1.6	loss-noreward	ChoiceDisplay	1	0.281	1	1
+81	774.832	1.319	loss-noreward	ChosenDisplay		0.0		
+81	776.136	0.25	loss-noreward	TurnDisplay				
+81	776.386	0.75	loss-noreward	OutcomeDisplay				
+82	777.139		control-noreward	ImageDisplay1		0.0		
+82	779.379	0.75	control-noreward	StartDisplay				
+82	780.131		control-noreward	ImageDisplay2		0.0		
+82	783.14	1.6	control-noreward	ChoiceDisplay	1	0.581	1	1
+82	783.742	1.019	control-noreward	ChosenDisplay		0.0		
+82	784.745	0.25	control-noreward	TurnDisplay				
+82	784.995	0.75	control-noreward	OutcomeDisplay				
+83	785.748		loss-noreward	ImageDisplay1		0.0		
+83	787.737	0.75	loss-noreward	StartDisplay				
+83	788.489		loss-noreward	ImageDisplay2		0.0		
+83	791.749	1.6	loss-noreward	ChoiceDisplay	1	0.714	1	1
+83	792.484	0.886	loss-noreward	ChosenDisplay		0.0		
+83	793.354	0.25	loss-noreward	TurnDisplay				
+83	793.604	0.75	loss-noreward	OutcomeDisplay				
+84	794.357		win-noreward	ImageDisplay1		0.0		
+84	796.346	0.75	win-noreward	StartDisplay				
+84	797.098		win-noreward	ImageDisplay2		0.0		
+84	800.358	1.6	win-noreward	ChoiceDisplay	1	1.01	1	1
+84	801.394	0.59	win-noreward	ChosenDisplay		0.0		
+84	801.963	0.25	win-noreward	TurnDisplay				
+84	802.213	0.75	win-noreward	OutcomeDisplay				
+85	802.966		loss-noreward	ImageDisplay1		0.0		
+85	805.206	0.75	loss-noreward	StartDisplay				
+85	805.958		loss-noreward	ImageDisplay2		0.0		
+85	808.967	1.6	loss-noreward	ChoiceDisplay	1	0.816	1	1
+85	809.803	0.784	loss-noreward	ChosenDisplay		0.0		
+85	810.572	0.25	loss-noreward	TurnDisplay				
+85	810.822	0.75	loss-noreward	OutcomeDisplay				
+86	811.575		win-noreward	ImageDisplay1		0.0		
+86	813.815	0.75	win-noreward	StartDisplay				
+86	814.567		win-noreward	ImageDisplay2		0.0		
+86	817.576	1.6	win-noreward	ChoiceDisplay	1	0.597	1	1
+86	818.194	1.003	win-noreward	ChosenDisplay		0.0		
+86	819.181	0.25	win-noreward	TurnDisplay				
+86	819.431	0.75	win-noreward	OutcomeDisplay				
+87	820.184		loss-noreward	ImageDisplay1		0.0		
+87	822.173	0.75	loss-noreward	StartDisplay				
+87	822.925		loss-noreward	ImageDisplay2		0.0		
+87	826.185	1.6	loss-noreward	ChoiceDisplay	1	1.033	1	1
+87	827.238	0.567	loss-noreward	ChosenDisplay		0.0		
+87	827.79	0.25	loss-noreward	TurnDisplay				
+87	828.04	0.75	loss-noreward	OutcomeDisplay				
+88	828.793		control-reward	ImageDisplay1		0.0		
+88	830.782	0.75	control-reward	StartDisplay				
+88	831.534		control-reward	ImageDisplay2		0.0		
+88	834.794	1.6	control-reward	ChoiceDisplay	1	0.665	1	1
+88	835.479	0.935	control-reward	ChosenDisplay		0.0		
+88	836.399	0.25	control-reward	TurnDisplay				
+88	836.649	0.75	control-reward	OutcomeDisplay				
+89	837.402		control-reward	ImageDisplay1		0.0		
+89	839.642	0.75	control-reward	StartDisplay				
+89	840.394		control-reward	ImageDisplay2		0.0		
+89	843.403	1.6	control-reward	ChoiceDisplay	1	0.952	1	1
+89	844.372	0.648	control-reward	ChosenDisplay		0.0		
+89	845.008	0.25	control-reward	TurnDisplay				
+89	845.258	0.75	control-reward	OutcomeDisplay				
+90	846.011		loss-reward	ImageDisplay1		0.0		
+90	848.251	0.75	loss-reward	StartDisplay				
+90	849.003		loss-reward	ImageDisplay2		0.0		
+90	852.012	1.6	loss-reward	ChoiceDisplay	1	0.836	1	1
+90	852.864	0.764	loss-reward	ChosenDisplay		0.0		
+90	853.617	0.25	loss-reward	TurnDisplay				
+90	853.867	0.75	loss-reward	OutcomeDisplay				
+91	854.62		control-reward	ImageDisplay1		0.0		
+91	856.86	0.75	control-reward	StartDisplay				
+91	857.612		control-reward	ImageDisplay2		0.0		
+91	860.621	1.6	control-reward	ChoiceDisplay		0.0		
+91	862.209	0.0	control-reward	ChosenDisplay		0.0		
+91	862.226	0.25	control-reward	TurnDisplay				
+91	862.46	0.75	control-reward	OutcomeDisplay				
+92	863.212		loss-reward	ImageDisplay1		0.0		
+92	865.218	0.75	loss-reward	StartDisplay				
+92	865.97		loss-reward	ImageDisplay2		0.0		
+92	869.213	1.6	loss-reward	ChoiceDisplay	1	0.666	1	1
+92	869.899	0.934	loss-reward	ChosenDisplay		0.0		
+92	870.818	0.25	loss-reward	TurnDisplay				
+92	871.069	0.75	loss-reward	OutcomeDisplay				
+93	871.821		control-reward	ImageDisplay1		0.0		
+93	874.061	0.75	control-reward	StartDisplay				
+93	874.813		control-reward	ImageDisplay2		0.0		
+93	877.822	1.6	control-reward	ChoiceDisplay	1	0.543	1	1
+93	878.391	1.057	control-reward	ChosenDisplay		0.0		
+93	879.427	0.25	control-reward	TurnDisplay				
+93	879.678	0.75	control-reward	OutcomeDisplay				
+94	880.43		win-noreward	ImageDisplay1		0.0		
+94	882.419	0.75	win-noreward	StartDisplay				
+94	883.171		win-noreward	ImageDisplay2		0.0		
+94	886.431	1.6	win-noreward	ChoiceDisplay	1	0.747	1	1
+94	887.2	0.853	win-noreward	ChosenDisplay		0.0		
+94	888.036	0.25	win-noreward	TurnDisplay				
+94	888.287	0.75	win-noreward	OutcomeDisplay				
+95	889.039		win-reward	ImageDisplay1		0.0		
+95	891.028	0.75	win-reward	StartDisplay				
+95	891.78		win-reward	ImageDisplay2		0.0		
+95	895.04	1.6	win-reward	ChoiceDisplay	1	1.227	1	1
+95	896.294	0.373	win-reward	ChosenDisplay		0.0		
+95	896.645	0.25	win-reward	TurnDisplay				
+95	896.896	0.75	win-reward	OutcomeDisplay				
